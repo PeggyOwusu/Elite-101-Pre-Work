@@ -1,5 +1,5 @@
 program_loop = True
-hello
+
 print("Welcome to the Elite 101 Chatbot Pre-Work.")
 
 print("\nBefore we start, I must ask some questions.") 
